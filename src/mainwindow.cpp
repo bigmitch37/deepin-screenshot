@@ -217,7 +217,7 @@ void MainWindow::initShortcut()
 
 void MainWindow::keyPressEvent(QKeyEvent *keyEvent)
 {
-    if (keyEvent->key() == Qt::Key_Return){
+    if (keyEvent->key() == Qt::Key_Return || keyEvent->key() == Qt::Key_Enter){
         // Save screenshot on enter
         expressSaveScreenshot();
     }else if (keyEvent->key() == Qt::Key_Escape ) {
