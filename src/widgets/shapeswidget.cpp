@@ -20,6 +20,7 @@
 #include "shapeswidget.h"
 
 #include <QApplication>
+#include <QPainterPath>
 #include <QPainter>
 #include <QDebug>
 
