@@ -1,5 +1,10 @@
 # Deepin screenshot
 
+See [Qubes-Docs](https://github.com/ClaraCrazy/qubes-docs/blob/main/modified-things/readme.md)
+
+<summary>Original README</summary>
+<details>
+    
 ## Description
 
 This is a default screenshot app for Linux Deepin.
@@ -45,3 +50,5 @@ We encourage you to report issues and contribute changes
 ## License
 
 deepin-screenshot is licensed under [GPLv3](LICENSE).
+
+</details>
