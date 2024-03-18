@@ -6,7 +6,7 @@ TLDR; I'm lazy. See [Qubes-Docs](https://github.com/ClaraCrazy/qubes-docs/blob/m
 <br>
 
 > [!CAUTION]
-> Some of this is stil slightly broken. QMagic makes no sense to me, neither does cpp, so I wont be able to fix it. Main issue: [This](https://github.com/ClaraCrazy/deepin-screenshot/blob/fork-of-a-fork/src/controller/resource.qrc) (aka. [this](https://github.com/ClaraCrazy/deepin-screenshot/blob/fork-of-a-fork/src/controller/menucontroller.cpp)) doesnt wanna import the images properly. Might be a super easy fix, but I dont really have time to try, nor do I care just for my stupid fork to run it in dom0. GLHF
+> Some of this is still slightly broken. QMagic makes no sense to me, neither does cpp, so I wont be able to fix it. Main issue: [This](https://github.com/ClaraCrazy/deepin-screenshot/blob/fork-of-a-fork/src/controller/resource.qrc) (aka. [this](https://github.com/ClaraCrazy/deepin-screenshot/blob/fork-of-a-fork/src/controller/menucontroller.cpp)) doesnt wanna import the images properly. Might be a super easy fix, but I dont really have time to try, nor do I care just for my stupid fork to run it in dom0. GLHF
 
 <br>
 
